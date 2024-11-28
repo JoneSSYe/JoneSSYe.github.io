@@ -10,9 +10,9 @@
     <atom:link href="https://ZongyuYe.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reference</title>
-      <link>https://ZongyuYe.github.io/blog/reference/</link>
+      <link>https://ZongyuYe.github.io/blog/reference_ver2/</link>
       <pubDate>Thu, 28 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://ZongyuYe.github.io/blog/reference/</guid>
+      <guid>https://ZongyuYe.github.io/blog/reference_ver2/</guid>
       <description>[1] H. Wen, H. Xing, and O. Simeone, “Pre-Training and Personalized Fine-Tuning via Over-the-Air Federated Meta-Learning: Convergence-Generalization Trade-Offs,” 2024. [Online]. Available: https://arxiv.org/pdf/2406.11569&#xA;[2] H. Wen, H. Xing, and O. Simeone, “Convergence Analysis of Over-the-Air FL with Compression and Power Control via Clipping,” in Proc. IEEE Global Communications Conference (GLOBECOM), Kuala Lumpur, Malaysia, Dec. 2023. [Online]. Available: https://arxiv.org/abs/2305.11135&#xA;[3] H. Wen, N. Michelusi, O. Simeone and H. Xing, “NCAirFL: CSI-Free Over-the-Air Federated Learning Based on Non-Coherent Detection,” 2024.</description>
     </item>
     <item>
