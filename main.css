@@ -1106,9 +1106,6 @@ blockquote {
   --tw-text-opacity: 1;
   color: rgb(31 41 55 / var(--tw-text-opacity));
 }
-.fixed {
-  position: fixed !important;
-}
 .relative {
   position: relative !important;
 }
@@ -1201,9 +1198,6 @@ blockquote {
 }
 .grow {
   flex-grow: 1 !important;
-}
-.transform {
-  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)) !important;
 }
 .cursor-pointer {
   cursor: pointer !important;
@@ -1337,9 +1331,6 @@ blockquote {
 }
 .no-underline {
   text-decoration-line: none !important;
-}
-.outline {
-  outline-style: solid !important;
 }
 .drop-shadow-md {
   --tw-drop-shadow: drop-shadow(0 4px 3px rgb(0 0 0 / 0.07)) drop-shadow(0 2px 2px rgb(0 0 0 / 0.06)) !important;
